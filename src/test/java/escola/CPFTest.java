@@ -2,6 +2,7 @@ package escola;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import escola.dominio.aluno.CPF;
 import org.junit.jupiter.api.Test;
 
 class CPFTest {

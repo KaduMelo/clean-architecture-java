@@ -3,6 +3,7 @@ package escola;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+import escola.dominio.aluno.Telefone;
 import org.junit.jupiter.api.Test;
 
 class TelefoneTest {
